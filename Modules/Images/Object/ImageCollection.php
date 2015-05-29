@@ -1,11 +1,11 @@
 <?php
-namespace neTpyceB\TMCms\Modules\Images\Object;
+namespace Modules\Images\Object;
 
-use neTpyceB\TMCms\Modules\CommonObjectCollection;
+use Modules\CommonObjectCollection;
 
 /**
  * Class ImageCollection
- * @package neTpyceB\TMCms\Modules\Images\Object
+ * @package Modules\Images\Object
  *
  * @method setWhereItemType(string)
  * @method setWhereItemId(int)

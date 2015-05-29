@@ -1,11 +1,11 @@
 <?php
-namespace neTpyceB\TMCms\Modules\Images\Object;
+namespace Modules\Images\Object;
 
-use neTpyceB\TMCms\Modules\CommonObject;
+use Modules\CommonObject;
 
 /**
  * Class Image
- * @package neTpyceB\TMCms\Modules\Images\Object
+ * @package Modules\Images\Object
  * @method string getImage()
  * @method string getItemType()
  * @method int getItemId()

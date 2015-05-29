@@ -1,9 +1,9 @@
 <?php
-namespace neTpyceB\TMCms\Modules\Images;
+namespace Modules\Images;
 
-use neTpyceB\TMCms\Modules\CommonObject;
-use neTpyceB\TMCms\Modules\Images\Object\ImageCollection;
-use neTpyceB\TMCms\Modules\IModule;
+use Modules\CommonObject;
+use Modules\Images\Object\ImageCollection;
+use Modules\IModule;
 
 defined('INC') or exit;
 
